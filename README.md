@@ -1,4 +1,4 @@
-# Reatail-Sales-Portfolio
+# Retail-Sales-Portfolio
 Retail Sales Data Portfolio
 ## Project Background
 City of Vancouver(CoV), established in...., is an organization that.....
