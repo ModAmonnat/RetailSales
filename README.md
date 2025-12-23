@@ -40,6 +40,9 @@ High-value customers purchase is evaluated based on their total spending in doll
 ### The top five revenue-generating states:
 Florida, California, Ohio, Texas, and New York, representing 411 orders and $86,836.78, equaling 44% of the total revenue. On the other hand, 
 Wisconsin, Hawaii, Connecticut, Oklahoma, and North Dakota representing only 23 orders and $4,378.
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/b2cd05b9-522c-464e-b303-39dd417a3c99" />
+
+
 ### Revenue Performance by Product Rating Tier:
 The 3-star rated products drive the highest revenue with $87,817, followed by 
 $42,557 for 4-star rated products and $38,573 for 5-star rated products.
