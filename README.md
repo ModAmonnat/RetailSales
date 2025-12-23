@@ -1,9 +1,6 @@
 # Retail-Sales-Portfolio
 Retail Sales Data Portfolio
 ## Project Background
-City of Vancouver(CoV), established in...., is an organization that.....
-
-
 SpenMart is a retail stall repairing and selling small electronics with both physical stores and online store.
 The company’s data wasn’t being used to its full potential. Reports were inconsistent, inventory levels didn’t always match what was on the shelves, and customer insights were recorded somewhere on spreadsheets, PDFs, and disconnected databases. Therefore, the company would like to have a team of data analyst and business analyst to help guide the company toward better operational efficiency and improved sales performance. The dataset provided for critical analysis by Spenmart included:
 - Sales transactions capturing recent orders
