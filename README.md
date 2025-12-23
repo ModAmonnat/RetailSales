@@ -1,19 +1,25 @@
 # Retail-Sales-Portfolio
-Retail Sales Data Portfolio
 ## Project Background
-SpenMart is a retail stall repairing and selling small electronics with both physical stores and online store.
-The company’s data wasn’t being used to its full potential. Reports were inconsistent, inventory levels didn’t always match what was on the shelves, and customer insights were recorded somewhere on spreadsheets, PDFs, and disconnected databases. Therefore, the company would like to have a team of data analyst and business analyst to help guide the company toward better operational efficiency and improved sales performance. The dataset provided for critical analysis by Spenmart included:
-- Sales transactions capturing recent orders
-- A stock list with products and inventory levels (as per the company’s ERP system)
-- Customer data detailing information about SpenMart’s customers
-- A physical stock count conducted recently on paper (now digitized into PDF format)
-  
-Insights and recommendations are provided on the following key areas:
+SpenMart is a retail enterprise specializing in the sale and repair of small electronics. The company operates through both physical storefronts and an online store. Historically, SpenMart’s data has been underutilized; reports were inconsistent, ERP inventory levels frequently mismatched physical stock, and customer insights were siloed across fragmented spreadsheets, PDFs, and disconnected databases.
 
--
--
--
--
+To address these challenges, SpenMart has engaged a team of Data and Business Analysts to improve operational efficiency and sales performance. The analysis is based on the following datasets:
+- Inventory Accuracy Analysis: Evaluation of inventory physical count data against the inventory count in the ERP system.
+- Revenue Contribution by Products: An analysis of which SpenMart products drive the most revenue.
+- Customer Valuation: An analysis of customers who contribute the top sales.
+- Regional Analysis: An evaluation of sales and orders by region.
+- Opportunity Analysis: An analysis of product growth opportunities by correlating customer ratings with sales performance data by product.
+
+
+
+
+Inventory Accuracy Analysis: Evaluation of inventory physical count data against the inventory count in the ERP system.
+
+Revenue Contribution by Products: An analysis of which SpenMart products drive the most revenue.
+
+Customer Valuation: An analysis of customers who contribute the top sales.
+
+Regional Analysis: An evaluation of sales and orders by region.
+
 
 An interactive PowerBI dashboard can be downloaded here.
 The SQL queries utilized to insspect and perform quality check can be found here.
