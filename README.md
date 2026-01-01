@@ -13,7 +13,8 @@ Insights and recommendations are provided on the following key areas:
 Targeted SQL quries regarding various business questions can be found here. [SQL Queries](./sql_queries)
 
 ## Data Structures and Profiling
-Spenmart's databased structure as seen below consists of three tables: Customers, Orders, and Products, with a total row count of [xx] records.
+Spenmart's databased structure as seen below consists of three tables: Customers, Orders, and Products.
+
 <img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/57ea58e6-d854-4889-8dab-f3a2a16af9a7" />
 
 ## Key Findings
