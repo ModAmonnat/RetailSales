@@ -24,18 +24,15 @@ The total variance of -443,998 was primarily due to Product ID 10092 (an interna
 44 units, but the physical count showed 444,444, creating a 444,400 discrepancy. Another manual error 
 recorded a 39-unit item as 3.9.
 ### Top 3 Revenue Products by Sales: 
-- Green Screen($2,023.51)
-- Cooling Fan(2,005.48)
-- Smart Swtich(1,859.60)
-  
-  <img width="600" height="501" alt="image" src="https://github.com/user-attachments/assets/d487b759-2a1e-4ae4-9303-fe4488704ab4" />
+- Home Theatre($2,023.51)
+- Noise Meter(2,005.48)
+- Smart Plug(1,859.60)
 
 ### Top 3 High-Value Purchase Customers:
 High-value customers purchase is evaluated based on their total spending in dollars
 - Findlay($2,268.02)
 - Joell ($2,174.83)
-- Rebecca ($2089.09).
-<img width="550" height="450" alt="image" src="https://github.com/user-attachments/assets/82822c4e-ee41-4300-b4c3-75fc07e18bd4" />
+- Rebecca ($2089.09)
 
 ### The top five revenue-generating states:
 Florida, California, Ohio, Texas, and New York, representing 411 orders and $86,836.78, equaling 44% of the total revenue. On the other hand, 
@@ -53,12 +50,9 @@ $42,557 for 4-star rated products and $38,573 for 5-star rated products.
 Based on the uncover insights, the following recommendations have been provided for specific areas:
 
 ### IT-Focused: 
-Introduce a standardized physical counting rule with required fields and numeric-only inputs. Implement mandatory field validation to prevent missing values. Provide staff training 
-on the physical count inventory system to ensure accuracy and consistency in data-entry practices. Integrate automated discrepancy flags into the ERP system to catch differences easily 
-and quickly. Adopt barcode scanners or mobile inventory tools to reduce manual-entry errors.
+To standardize the process, introduce a physical counting rule with required fields and numeric-only inputs, and implement mandatory field validation to prevent missing values. This should be paired with staff training on the physical count inventory system to ensure accuracy and consistency in data-entry practices. On the technical side, integrate automated discrepancy flags into the ERP system to catch differences easily and quickly, and adopt barcode scanners or mobile inventory tools to reduce manual-entry errors.
 ### Marketing-Focused:
-Develop targeted product lines for tech-creative, health-conscious, and productivity-focused segments. Implement a loyalty program with personalized 
-recommendations. This will increase customer retention, drive higher repeat purchase rates, and grow the average order value from both mass-market and high-value segments.
+Develop targeted product lines for tech-creative, health-conscious, and productivity-focused segments while implementing a loyalty program with personalized recommendations. Doing so will increase customer retention, drive higher repeat purchase rates, and grow the average order value from both mass-market and high-value segments.
 ### Operations-Focused: 
 Negotiate volume discounts with suppliers for the top-selling items to maintain competitive pricing, while monitoring safety stock levels for the top three products to 
 prevent stockouts. By doing so, the company can reduce procurement costs, protect profit margins, and ensure product availability for high-demand items.
@@ -67,5 +61,5 @@ Scaling down in these states may include reducing stock for low-demand items, si
 marketing instead of large campaigns. On the other hand, scaling up should include increasing inventory for popular products in these regions, targeted marketing for smart-home and 
 entertainment items, and strengthening promotions for repeat customers. These states show the highest engagement and spending; expanding operations here will help SpenMart maximize 
 revenue and support future growth.
-### Opportunity For Growth:
+### Strategic Sourcing Initiative:
 Switch vendors for the 3-star rated products to improve quality for items such as smartwatches, game consoles, and power banks, and negotiate volume discounts to maintain competitive pricing.
